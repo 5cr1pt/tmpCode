@@ -1,0 +1,115 @@
+{
+    "user": {
+        "username": "",
+        "screenName": "",
+        "createdAt": "",
+        "updatedAt": "",
+        "isVerified": false,
+        "verifyMessage": "",
+        "briefIntro": "",
+        "avatarImage": {
+            "thumbnailUrl": "",
+            "smallPicUrl": "",
+            "picUrl": "",
+            "badgeUrl": ""
+        },
+        "profileImageUrl": "",
+        "trailingIcons": [],
+        "statsCount": {
+            "topicSubscribed": 282,
+            "topicCreated": 15,
+            "followedCount": 357,
+            "followingCount": 172,
+            "highlightedPersonalUpdates": 42,
+            "liked": 11996
+        },
+        "id": "",
+        "backgroundImage": {
+            "picUrl": ""
+        },
+        "bio": "",
+        "gender": "",
+        "city": "",
+        "country": "",
+        "province": "",
+        "preferences": {
+            "autoPlayVideo": false,
+            "topicTagGuideOn": true,
+            "dailyNotificationOn": true,
+            "followedNotificationOn": true,
+            "subscribeWeatherForecast": true,
+            "privateTopicSubscribe": true,
+            "undiscoverableByPhoneNumber": false,
+            "saveDataUsageMode": false,
+            "topicPushSettings": "OFF",
+            "debugLogOn": false,
+            "env": "prod",
+            "syncCommentToPersonalActivity": false,
+            "repostWithComment": false,
+            "enablePrivateChat": true,
+            "blockStrangerPoke": false,
+            "enablePictureWatermark": true,
+            "enableOperationPush": true,
+            "openMessageTabOnLaunch": true,
+            "tabOnLaunch": "TAB_SUBSCRIBE",
+            "undiscoverableByWeiboUser": false
+        },
+        "isBetaUser": false,
+        "weiboUid": "",
+        "mobilePhoneNumber": "",
+        "areaCode": "",
+        "lastChangeNameTime": "",
+        "birthday": "",
+        "zodiac": "",
+        "industry": "",
+        "medals": [{
+            "picUrl": "",
+            "url": "jike://page.jk/topic/***?ref=USER_PROFILE_MEDAL",
+            "name": "“浴室沉思”每周阿基米德",
+            "badgePicUrl": "https://cdn.ruguoapp.com/FuuIRn9tsENYknVG1MDEORHroP91.png?imageMogr2/auto-orient/heic-exif/1/format/jpeg/thumbnail/120x120%3E/quality/30",
+            "gotMedalAt": "2018.10.01"
+        }, {
+            "picUrl": "",
+            "url": "https://h5.okjike.com/partner-fe/#/",
+            "name": "即刻合伙人",
+            "gotMedalAt": ""
+        }],
+        "profileTags": [{
+            "text": "即刻合伙人",
+            "picUrl": "https://cdn.ruguoapp.com/resources/userProfile/profile_tag_jike_partner.png",
+            "url": "https://h5.okjike.com/partner-fe/#/",
+            "type": "NORMAL"
+        }, {
+            "picUrl": "https://cdn.ruguoapp.com/resources/userProfile/male@3x.png",
+            "type": "NORMAL"
+        }, {
+            "text": "地区",
+            "type": "NORMAL"
+        }, {
+            "text": "行业",
+            "type": "NORMAL"
+        }, {
+            "text": "星座",
+            "type": "NORMAL"
+        }],
+        "isLoginUser": true,
+        "school": {},
+        "isFriendlyUser": true,
+        "isBanned": false
+    },
+    "statsCount": {
+        "topicSubscribed": 282,
+        "topicCreated": 15,
+        "followedCount": 357,
+        "followingCount": 172,
+        "highlightedPersonalUpdates": 42,
+        "liked": 11996
+    },
+    "enabledFeatures": ["custom-topic", "privileged-poke", "upload-video", "post-nine-pictures"],
+    "abtestFeatures": {
+        "NEW_USER_GUIDE": "TOPIC_GUIDE"
+    },
+    "trackTags": {
+        "veteranUser": true
+    }
+}
